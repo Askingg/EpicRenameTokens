@@ -1,0 +1,10 @@
+name: EpicRenameTokens
+author: Askingg
+version: 1.0
+main: me.askingg.renametokens.main.Main
+description: Rename Your Items With Rename-Tokens
+
+commands:
+  renametokens:
+   description: Base Command
+   aliases: [rt]
